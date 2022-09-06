@@ -1,5 +1,7 @@
-- ola meu nome e maria
-- eu estou aprendendo atualmente a programar jogos no scratch e em javascript
-- tenho curiosidade em aprender paginas da web
-- voces podem entrar em contato comigo atraves do maria.rogero@escola.pr.gov.br
-
+ # PensamentoComp
+ ## Atividades HTML e CSS
+ ### Disciplina do Novo ensino médio, voltada ao desenvolvimento do raciocińio lógico.
+ ### Professora: Everlea 
+### Turma: 1 A
+ ### Aluno: Maria Victória Marques Rogero
+ ### objetivo: Criar repositórios com arquivos gerados em HTML e CSS
